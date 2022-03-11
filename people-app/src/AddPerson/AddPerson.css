@@ -1,0 +1,14 @@
+.react-datepicker__input-container {
+  display: inline-flex;
+}
+
+#submitContainer {
+  display: block;
+  text-align: center;
+}
+
+#submitUser {
+  width: auto;
+  padding-left: 4vh;
+  padding-right: 4vh;
+}

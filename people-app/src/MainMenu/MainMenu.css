@@ -1,0 +1,23 @@
+.addPersonContainer {
+  text-align: end;
+  /* margin-inline-end: 5vh; */
+}
+
+.userActionButton {
+  width: fit-content;
+}
+
+.inputSearch {
+  width: fit-content;
+}
+
+.addButtonImage {
+  padding: 3vh;
+}
+
+.table-wrapper {
+  margin-top: 4vh;
+  max-height: 80vh;
+  overflow: auto;
+  display: flow-root;
+}
